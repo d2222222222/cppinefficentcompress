@@ -1,0 +1,2 @@
+g++ -O3 -o compressor in.cpp
+g++ -O3 -o decompressor out.cpp
